@@ -3,7 +3,7 @@ using namespace std;
 
 class Base{
     public:
-         void virtual func(){
+         void virtual func(){   //virtual function declared
             cout<<"Base class function executed!";
         }
 
